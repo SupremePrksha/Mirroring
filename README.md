@@ -9,4 +9,4 @@ Pls enable a internet connection for first, to download it packages and stuffs
 
 copy the url or just install the zip file
 
-open your terminal
+open your terminal and type : python ScreenMirroring.py
